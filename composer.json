@@ -1,0 +1,12 @@
+{
+    "name": "tienvx/minio-test",
+    "require": {
+        "aws/aws-sdk-php": "^3.36"
+    },
+    "authors": [
+        {
+            "name": "tien.xuan.vo",
+            "email": "tien.xuan.vo@gmail.com"
+        }
+    ]
+}
